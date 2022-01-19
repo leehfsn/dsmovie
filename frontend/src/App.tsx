@@ -1,6 +1,8 @@
+import {ReactComponent as GithunIcon} from './assets/img/github.svg'
+import Navbar from './components/Navbar';
 function App() {
   return (
-    <h1> Primeira página</h1>
+  <Navbar />
   );
 }
 
